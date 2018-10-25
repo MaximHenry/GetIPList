@@ -1,0 +1,2 @@
+rem This File is intended to know how much time
+rem for the subnet scan is needed.
